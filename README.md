@@ -47,4 +47,4 @@ At **[CoCode.dk](https://cocode.dk)** I work across:
 **See you at [@cocodedk](https://github.com/cocodedk)**
 
 </div>
-.
+
